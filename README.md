@@ -1,5 +1,9 @@
 # Reseda Spin
 
+![GitHub top language](https://img.shields.io/github/languages/top/orlovroma/reseda_spin/tree/main)
+![Logotype](./docs/load_logo.png)
+
+
 This repository is a collection of jupyter notebooks for visualizing the evolution of neutron spin on the Bloch sphere.
 
 About Reseda: https://mlz-garching.de/reseda
