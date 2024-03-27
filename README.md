@@ -1,6 +1,6 @@
 # Reseda Spin
 
-![GitHub top language](https://img.shields.io/github/languages/top/orlovroma/reseda_spin/tree/main)
+![GitHub top language](https://img.shields.io/github/languages/top/orlovroma/reseda_spin)
 ![Logotype](./docs/load_logo.png)
 
 
