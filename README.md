@@ -1,6 +1,6 @@
 # Reseda Spin
 
-![Static Badge](https://img.shields.io/badge/orlovroma/reseda_spin)
+![Static Badge](https://img.shields.io/badge/orlovroma-reseda_spin-reseda_spin)
 ![GitHub top language](https://img.shields.io/github/languages/top/orlovroma/reseda_spin)
 ![GitHub](https://img.shields.io/github/license/orlovroma/reseda_spin)
 ![GitHub issues](https://img.shields.io/github/issues/orlovroma/reseda_spin)
