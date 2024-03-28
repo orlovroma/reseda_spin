@@ -15,4 +15,4 @@ ________________________________________________________________________________
 3) For animations https://qutip.org/docs/latest/guide/guide-bloch.html
    Yes, it's really so bad. We have to remove all and plot once again for each frame.
 4) Note the "folder" function. It must always be run before plotting, otherwise the script will not work!
-5) 
+5) The folder "animations_done" contains examples of done animations of each step by Reseda
