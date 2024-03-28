@@ -1,6 +1,10 @@
 # Reseda Spin
 
+![Static Badge](https://img.shields.io/badge/orlovroma/reseda_spin)
 ![GitHub top language](https://img.shields.io/github/languages/top/orlovroma/reseda_spin)
+![GitHub](https://img.shields.io/github/license/orlovroma/reseda_spin)
+![GitHub issues](https://img.shields.io/github/issues/orlovroma/reseda_spin)
+
 
 This repository is a collection of jupyter notebooks for visualizing the evolution of neutron spin on the Bloch sphere.
 
@@ -8,7 +12,8 @@ About Reseda: https://mlz-garching.de/reseda
 
 ![Logotype](./docs/load_logo.png)
 
-________________________________________________________________________________________________________________
+<!--Tips and comments-->
+## Tips and comments
 
 1) Some notebooks contain similar functions and the code may be repeated. This is done on purpose so that each notebook can be run completely independently.
 2) I would recommend starting with Pauli operators. This is the simplest example of how animation and calculation works.
