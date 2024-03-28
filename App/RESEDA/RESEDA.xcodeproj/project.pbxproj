@@ -1,0 +1,438 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8C038F8F2B1AC0700049B1BC /* 4_rff1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C038F8E2B1AC0700049B1BC /* 4_rff1.gif */; };
+		8C038F912B1AC0DA0049B1BC /* Rff2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C038F902B1AC0DA0049B1BC /* Rff2.swift */; };
+		8C038F932B1AC17B0049B1BC /* Mezei2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C038F922B1AC17B0049B1BC /* Mezei2.swift */; };
+		8C038F952B1AC1B30049B1BC /* 6_mf2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C038F942B1AC1B30049B1BC /* 6_mf2.gif */; };
+		8C038F972B1AC1C00049B1BC /* 5_rff2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C038F962B1AC1C00049B1BC /* 5_rff2.gif */; };
+		8C038F992B1AC2950049B1BC /* Full.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C038F982B1AC2950049B1BC /* Full.swift */; };
+		8C038F9B2B1AC2B00049B1BC /* final.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C038F9A2B1AC2B00049B1BC /* final.gif */; };
+		8C096E952B14E42C00C143C2 /* adtransition.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C096E942B14E42B00C143C2 /* adtransition.gif */; };
+		8C096E972B14E4AE00C143C2 /* mezei.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C096E962B14E4AE00C143C2 /* mezei.gif */; };
+		8C1074D82AF98953005D2606 /* RESEDAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1074D72AF98953005D2606 /* RESEDAApp.swift */; };
+		8C1074DA2AF98953005D2606 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1074D92AF98953005D2606 /* ContentView.swift */; };
+		8C1074DF2AF98954005D2606 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C1074DE2AF98954005D2606 /* Preview Assets.xcassets */; };
+		8C1074E12AF98954005D2606 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C1074E02AF98954005D2606 /* Persistence.swift */; };
+		8C1074E42AF98954005D2606 /* RESEDA.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8C1074E22AF98954005D2606 /* RESEDA.xcdatamodeld */; };
+		8C3229DD2B0E7CBC00B898D7 /* GifImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3229DC2B0E7CBC00B898D7 /* GifImage.swift */; };
+		8C3229DF2B0EA49700B898D7 /* SpinSelec.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C3229DE2B0EA49700B898D7 /* SpinSelec.swift */; };
+		8C3229E12B0EA51000B898D7 /* spinselec.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C3229E02B0EA51000B898D7 /* spinselec.gif */; };
+		8C3229E32B0EA52100B898D7 /* spinselec.gif in Resources */ = {isa = PBXBuildFile; fileRef = 8C3229E22B0EA52100B898D7 /* spinselec.gif */; };
+		8C5F18152AFAB6C300F9C51F /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C5F18142AFAB6C300F9C51F /* SwiftUIView.swift */; };
+		8CDEB89C2B0EAB5B00AC3A0F /* AppIcon.appiconset in Resources */ = {isa = PBXBuildFile; fileRef = 8CDEB89B2B0EAB5B00AC3A0F /* AppIcon.appiconset */; };
+		8CDEB8A62B0EB66E00AC3A0F /* adtransition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDEB8A52B0EB66E00AC3A0F /* adtransition.swift */; };
+		8CDEB8A82B0EC01200AC3A0F /* Mezei.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDEB8A72B0EC01200AC3A0F /* Mezei.swift */; };
+		8CDEB8AA2B0EC53600AC3A0F /* Rff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CDEB8A92B0EC53600AC3A0F /* Rff.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		8C038F8E2B1AC0700049B1BC /* 4_rff1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 4_rff1.gif; path = ../../../Animations_done/4_rff1.gif; sourceTree = "<group>"; };
+		8C038F902B1AC0DA0049B1BC /* Rff2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rff2.swift; sourceTree = "<group>"; };
+		8C038F922B1AC17B0049B1BC /* Mezei2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mezei2.swift; sourceTree = "<group>"; };
+		8C038F942B1AC1B30049B1BC /* 6_mf2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 6_mf2.gif; path = ../../../Animations_done/6_mf2.gif; sourceTree = "<group>"; };
+		8C038F962B1AC1C00049B1BC /* 5_rff2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = 5_rff2.gif; path = ../../../Animations_done/5_rff2.gif; sourceTree = "<group>"; };
+		8C038F982B1AC2950049B1BC /* Full.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Full.swift; sourceTree = "<group>"; };
+		8C038F9A2B1AC2B00049B1BC /* final.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = final.gif; path = ../../../Animations_done/final.gif; sourceTree = "<group>"; };
+		8C096E942B14E42B00C143C2 /* adtransition.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = adtransition.gif; path = ../../animations/adtransition.gif; sourceTree = "<group>"; };
+		8C096E962B14E4AE00C143C2 /* mezei.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = mezei.gif; path = ../../animations/mezei.gif; sourceTree = "<group>"; };
+		8C1074D42AF98953005D2606 /* RESEDA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RESEDA.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C1074D72AF98953005D2606 /* RESEDAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RESEDAApp.swift; sourceTree = "<group>"; };
+		8C1074D92AF98953005D2606 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		8C1074DE2AF98954005D2606 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8C1074E02AF98954005D2606 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		8C1074E32AF98954005D2606 /* RESEDA.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = RESEDA.xcdatamodel; sourceTree = "<group>"; };
+		8C3229DC2B0E7CBC00B898D7 /* GifImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GifImage.swift; sourceTree = "<group>"; };
+		8C3229DE2B0EA49700B898D7 /* SpinSelec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpinSelec.swift; sourceTree = "<group>"; };
+		8C3229E02B0EA51000B898D7 /* spinselec.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = spinselec.gif; path = "../../../../../Test APP/animations/spinselec.gif"; sourceTree = "<group>"; };
+		8C3229E22B0EA52100B898D7 /* spinselec.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = spinselec.gif; path = "../../../../Test APP/animations/spinselec.gif"; sourceTree = "<group>"; };
+		8C5F18142AFAB6C300F9C51F /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		8CDEB89B2B0EAB5B00AC3A0F /* AppIcon.appiconset */ = {isa = PBXFileReference; lastKnownFileType = folder; name = AppIcon.appiconset; path = "../../../../../../Library/Containers/com.goodsnooze.bakery/Data/tmp/E08C5219-B81A-4C33-A1E2-AB023EC96BBD-39959-000004C41326A3EF/AppIcon.appiconset"; sourceTree = "<group>"; };
+		8CDEB8A52B0EB66E00AC3A0F /* adtransition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adtransition.swift; sourceTree = "<group>"; };
+		8CDEB8A72B0EC01200AC3A0F /* Mezei.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mezei.swift; sourceTree = "<group>"; };
+		8CDEB8A92B0EC53600AC3A0F /* Rff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rff.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8C1074D12AF98953005D2606 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8C1074CB2AF98953005D2606 = {
+			isa = PBXGroup;
+			children = (
+				8C038F982B1AC2950049B1BC /* Full.swift */,
+				8C1074D62AF98953005D2606 /* RESEDA */,
+				8C1074D52AF98953005D2606 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8C1074D52AF98953005D2606 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8C1074D42AF98953005D2606 /* RESEDA.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8C1074D62AF98953005D2606 /* RESEDA */ = {
+			isa = PBXGroup;
+			children = (
+				8C3229E22B0EA52100B898D7 /* spinselec.gif */,
+				8C096E962B14E4AE00C143C2 /* mezei.gif */,
+				8C096E942B14E42B00C143C2 /* adtransition.gif */,
+				8C038F8E2B1AC0700049B1BC /* 4_rff1.gif */,
+				8C038F962B1AC1C00049B1BC /* 5_rff2.gif */,
+				8C038F942B1AC1B30049B1BC /* 6_mf2.gif */,
+				8C038F9A2B1AC2B00049B1BC /* final.gif */,
+				8CDEB8A52B0EB66E00AC3A0F /* adtransition.swift */,
+				8C5F18142AFAB6C300F9C51F /* SwiftUIView.swift */,
+				8C1074D72AF98953005D2606 /* RESEDAApp.swift */,
+				8C1074D92AF98953005D2606 /* ContentView.swift */,
+				8C1074E02AF98954005D2606 /* Persistence.swift */,
+				8C3229DE2B0EA49700B898D7 /* SpinSelec.swift */,
+				8CDEB8A72B0EC01200AC3A0F /* Mezei.swift */,
+				8C038F922B1AC17B0049B1BC /* Mezei2.swift */,
+				8CDEB8A92B0EC53600AC3A0F /* Rff.swift */,
+				8C038F902B1AC0DA0049B1BC /* Rff2.swift */,
+				8C3229DC2B0E7CBC00B898D7 /* GifImage.swift */,
+				8C1074E22AF98954005D2606 /* RESEDA.xcdatamodeld */,
+				8C1074DD2AF98954005D2606 /* Preview Content */,
+			);
+			path = RESEDA;
+			sourceTree = "<group>";
+		};
+		8C1074DD2AF98954005D2606 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				8CDEB89B2B0EAB5B00AC3A0F /* AppIcon.appiconset */,
+				8C3229E02B0EA51000B898D7 /* spinselec.gif */,
+				8C1074DE2AF98954005D2606 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8C1074D32AF98953005D2606 /* RESEDA */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8C1074E72AF98954005D2606 /* Build configuration list for PBXNativeTarget "RESEDA" */;
+			buildPhases = (
+				8C1074D02AF98953005D2606 /* Sources */,
+				8C1074D12AF98953005D2606 /* Frameworks */,
+				8C1074D22AF98953005D2606 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = RESEDA;
+			productName = RESEDA;
+			productReference = 8C1074D42AF98953005D2606 /* RESEDA.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8C1074CC2AF98953005D2606 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1500;
+				LastUpgradeCheck = 1500;
+				TargetAttributes = {
+					8C1074D32AF98953005D2606 = {
+						CreatedOnToolsVersion = 15.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 8C1074CF2AF98953005D2606 /* Build configuration list for PBXProject "RESEDA" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8C1074CB2AF98953005D2606;
+			productRefGroup = 8C1074D52AF98953005D2606 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8C1074D32AF98953005D2606 /* RESEDA */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8C1074D22AF98953005D2606 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CDEB89C2B0EAB5B00AC3A0F /* AppIcon.appiconset in Resources */,
+				8C3229E12B0EA51000B898D7 /* spinselec.gif in Resources */,
+				8C1074DF2AF98954005D2606 /* Preview Assets.xcassets in Resources */,
+				8C096E972B14E4AE00C143C2 /* mezei.gif in Resources */,
+				8C096E952B14E42C00C143C2 /* adtransition.gif in Resources */,
+				8C3229E32B0EA52100B898D7 /* spinselec.gif in Resources */,
+				8C038F972B1AC1C00049B1BC /* 5_rff2.gif in Resources */,
+				8C038F8F2B1AC0700049B1BC /* 4_rff1.gif in Resources */,
+				8C038F952B1AC1B30049B1BC /* 6_mf2.gif in Resources */,
+				8C038F9B2B1AC2B00049B1BC /* final.gif in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8C1074D02AF98953005D2606 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8C3229DF2B0EA49700B898D7 /* SpinSelec.swift in Sources */,
+				8C5F18152AFAB6C300F9C51F /* SwiftUIView.swift in Sources */,
+				8C1074E12AF98954005D2606 /* Persistence.swift in Sources */,
+				8C038F932B1AC17B0049B1BC /* Mezei2.swift in Sources */,
+				8C3229DD2B0E7CBC00B898D7 /* GifImage.swift in Sources */,
+				8CDEB8AA2B0EC53600AC3A0F /* Rff.swift in Sources */,
+				8C038F912B1AC0DA0049B1BC /* Rff2.swift in Sources */,
+				8C1074DA2AF98953005D2606 /* ContentView.swift in Sources */,
+				8CDEB8A62B0EB66E00AC3A0F /* adtransition.swift in Sources */,
+				8C1074D82AF98953005D2606 /* RESEDAApp.swift in Sources */,
+				8C1074E42AF98954005D2606 /* RESEDA.xcdatamodeld in Sources */,
+				8CDEB8A82B0EC01200AC3A0F /* Mezei.swift in Sources */,
+				8C038F992B1AC2950049B1BC /* Full.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		8C1074E52AF98954005D2606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8C1074E62AF98954005D2606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8C1074E82AF98954005D2606 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"RESEDA/Preview Content\"";
+				DEVELOPMENT_TEAM = UR5R2N3BT3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Reseda-RL.RESEDA";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8C1074E92AF98954005D2606 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"RESEDA/Preview Content\"";
+				DEVELOPMENT_TEAM = UR5R2N3BT3;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Reseda-RL.RESEDA";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8C1074CF2AF98953005D2606 /* Build configuration list for PBXProject "RESEDA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C1074E52AF98954005D2606 /* Debug */,
+				8C1074E62AF98954005D2606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8C1074E72AF98954005D2606 /* Build configuration list for PBXNativeTarget "RESEDA" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8C1074E82AF98954005D2606 /* Debug */,
+				8C1074E92AF98954005D2606 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		8C1074E22AF98954005D2606 /* RESEDA.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				8C1074E32AF98954005D2606 /* RESEDA.xcdatamodel */,
+			);
+			currentVersion = 8C1074E32AF98954005D2606 /* RESEDA.xcdatamodel */;
+			path = RESEDA.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 8C1074CC2AF98953005D2606 /* Project object */;
+}
